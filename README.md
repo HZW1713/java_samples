@@ -74,7 +74,7 @@ $ javac Server.java ClientManager.java
 ### 起動方法
 
 ```bash
-$ java Server.java
+$ java Server
 ```
 
 ## クライアントプログラム
