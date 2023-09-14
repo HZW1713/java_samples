@@ -90,8 +90,20 @@ $ javac Client.java PlayerModel.java PlayerView.java PlayerController.java Othel
 ### 起動
 
 ```bash
+$ java Client [ip address] 8004
+```
+
+localhost(127.0.0.1)でサーバを起動している場合
+
+```bash
 $ java Client localhost 8004
 ```
 
-\* localhostの8004でサーバを稼働させているので，引数として指定しています．  
+または
+
+```bash
+$ java Client 127.0.0.1 8004
+```
+
+\* ポート番号8004でサーバを稼働させているので，引数として指定しています．  
 \* 画像ファイル(.jpg)はクラスファイル(.class)と同じディレクトリに配置してください．  
