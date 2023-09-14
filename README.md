@@ -41,6 +41,8 @@ $ java AddOnlyCalculator
 
 ### GUI
 
+<img src="images/calculator.png" width="200mm"> 
+
 ## 簡易的なテキストエディタ
 
 ソースコード：[SimpleEditor.java](mvc_samples/SimpleEditor.java)
@@ -58,6 +60,8 @@ $ java SimpleEditor
 ```
 
 ### GUI
+
+<img src="images/editor.png" width="300mm"> 
 
 ---
 
@@ -114,7 +118,7 @@ $ java Client 127.0.0.1 8004
 
 \* ポート番号8004でサーバを稼働させているので，引数として指定しています．  
 \* 画像ファイル(.jpg)はクラスファイル(.class)と同じディレクトリに配置してください．  
-\* 終了は`Ctrl+C`かログイン画面のウインドウを閉じると終了します．
+\* `Ctrl+C`かログイン画面のウインドウを閉じると終了します．
 
 ### GUI
 
