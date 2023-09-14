@@ -120,5 +120,4 @@ $ java Client 127.0.0.1 8004
 
 <img src="images/login.png" width="200mm">
 
-<img src="images/room.png" width="300mm">
-<img src="images/match.png" width="300mm">
+<img src="images/room.png" width="300mm"> <img src="images/match.png" width="300mm">
