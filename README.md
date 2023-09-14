@@ -118,14 +118,7 @@ $ java Client 127.0.0.1 8004
 
 ### GUI
 
-* ログイン画面
+<img src="images/login.png" width="200mm">
 
-    ![ログイン画面](images/login.png)
-
-* ルーム（サーバに接続しているユーザ）
-
-    ![ルーム](images/room.png)
-
-* 対局時の画面
-
-    ![リバーシ](images/match.png)
+<img src="images/room.png" width="300mm">
+<img src="images/match.png" width="300mm">
