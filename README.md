@@ -39,6 +39,8 @@ $ javac AddOnlyCalculator.java
 $ java AddOnlyCalculator
 ```
 
+### GUI
+
 ## 簡易的なテキストエディタ
 
 ソースコード：[SimpleEditor.java](mvc_samples/SimpleEditor.java)
@@ -54,6 +56,8 @@ $ javac SimpleEditor.java
 ```bash
 $ java SimpleEditor
 ```
+
+### GUI
 
 ---
 
@@ -76,6 +80,9 @@ $ javac Server.java ClientManager.java
 ```bash
 $ java Server
 ```
+
+\* 起動すると~~意味のない~~パスワードの入力が求められます．`123456`を入力してください．  
+\* `Ctrl+C`で終了
 
 ## クライアントプログラム
 
@@ -107,3 +114,18 @@ $ java Client 127.0.0.1 8004
 
 \* ポート番号8004でサーバを稼働させているので，引数として指定しています．  
 \* 画像ファイル(.jpg)はクラスファイル(.class)と同じディレクトリに配置してください．  
+\* 終了は`Ctrl+C`かログイン画面のウインドウを閉じると終了します．
+
+### GUI
+
+* ログイン画面
+
+    ![ログイン画面](images/login.png)
+
+* ルーム（サーバに接続しているユーザ）
+
+    ![ルーム](images/room.png)
+
+* 対局時の画面
+
+    ![リバーシ](images/match.png)
