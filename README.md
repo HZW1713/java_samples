@@ -23,7 +23,7 @@
 
 # MVCのサンプルプログラム
 
-## 2数の加算のみを行う計算機
+## 2数の加算のみを行う電卓
 
 ソースコード：[AddOnlyCalculator.java](mvc_samples/AddOnlyCalculator.java)
 
